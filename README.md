@@ -144,6 +144,15 @@ The team used a variety of tools in this project, `Python`, `Git`,`AWS`, `Databr
 ### Workflow Runs:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229726731-e664efce-8f94-4b13-a6dd-2f4bc27db42d.png">
 
+### Power BI:
+
+#### Dimensional Model
+![image](https://user-images.githubusercontent.com/29958551/229776422-66795bf6-de78-4c25-86fe-4e0c9731b3a5.png)
+
+#### Dashboard:
+![image](https://user-images.githubusercontent.com/29958551/229776640-528e0366-04e4-46ff-869e-b6215e462cc2.png)
+![image](https://user-images.githubusercontent.com/29958551/229776720-ea230d41-36f5-4583-9e42-43b542a861e5.png)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
