@@ -167,7 +167,7 @@ _Below are the steps for setting up and running the dvd_rental ELT process._
 
 ### Airbyte Integration
 
-1. Execute Airbyte integration: RDS -> Databricks
+1. Execute Airbyte integration: RDS (Postgres) -> Databricks Lakehouse
 
 ### Databricks Transformations and Testing
 
