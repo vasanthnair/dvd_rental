@@ -127,20 +127,20 @@ The team used a variety of tools in this project, `Python`, `Git`,`AWS`, `Databr
 5. The PowerBI dashboard updates with overall financial reporting on the `General` tab, and with KPI reporting on the `KPIs/metrics` tab: ready for Upper Management consumption.
 
 
-Airbyte Connection with Source and Destination:
+### Airbyte Connection with Source and Destination:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229725338-fca26351-7307-424f-bc07-1685c874dfeb.png">
 
-Sync Schedule:
+### Sync Schedule:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229725671-a7e0c326-ae63-4fa6-b99c-0f7785451cf1.png">
 
-Transformation Details:
+### Transformation Details:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229725804-e49eba5b-334b-4523-a328-47217421b200.png">
 
 
-Databricks Transformation Workflow With Great Expectations Tests :
+### Databricks Transformation Workflow With Great Expectations Tests :
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229726491-1221f89d-2653-46b1-90dc-1c41d6260876.png">
 
-Workflow Runs:
+### Workflow Runs:
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/1815429/229726731-e664efce-8f94-4b13-a6dd-2f4bc27db42d.png">
 
 
