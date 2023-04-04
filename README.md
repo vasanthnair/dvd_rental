@@ -115,7 +115,8 @@ The team used a variety of tools in this project, `Python`, `Git`,`AWS`, `Databr
 <!-- ARCHITECTURE -->
 ## Architecture
 
-![image](https://user-images.githubusercontent.com/29958551/229655848-7cf7d55e-59b1-4631-9574-7ddccb6359d3.png)
+![download (1)](https://user-images.githubusercontent.com/29958551/229769121-5b5ff086-97cd-4b5d-9152-416edcaf58c2.png)
+
 
 
 ### DVD Rental Pipeline Steps
